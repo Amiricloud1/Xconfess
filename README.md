@@ -372,3 +372,6 @@ When adding a new API endpoint, follow the [API endpoint contributor checklist](
 
 <!-- handsoff-issue-24 -->
 - #24: [Advanced] Add device and session management UI
+
+<!-- handsoff-issue-246 -->
+- #246: [Advanced] Define lifecycle and recovery semantics for archived conversations
