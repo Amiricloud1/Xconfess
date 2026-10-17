@@ -375,3 +375,6 @@ When adding a new API endpoint, follow the [API endpoint contributor checklist](
 
 <!-- handsoff-issue-246 -->
 - #246: [Advanced] Define lifecycle and recovery semantics for archived conversations
+
+<!-- handsoff-issue-249 -->
+- #249: [Advanced] Add user-controlled delivery and read receipt semantics
